@@ -1,0 +1,14 @@
+/* --project grid-- */
+
+.container {
+    width: 100%;
+    max-width: 1246px; /*1216 changed to 1246 because I added 15px on the sides and to not lose the 30px I add in the max-width*/
+    margin: 0 auto;
+    padding: 0px 15px; /*vent on the side for the mobile*/
+}
+
+/* grid fluid is a grid that takes up the whole screen 
+   .container-fluid {
+    width: 100%;
+    padding: 0px 15px; /*vent on the side for the mobile
+} */
